@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nodejs-messaging-work-queue
+  annotations:
+    github.com/project-slug: lholmquist/nodejs-messaging-work-queue
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/lholmquist
